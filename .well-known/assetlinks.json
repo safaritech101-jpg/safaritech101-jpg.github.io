@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.safaritech101_jpg.twa",
+      "sha256_cert_fingerprints": [
+        "2A:C7:30:FB:18:18:29:A3:3F:BF:2A:C6:D8:71:52:73:63:D6:AC:06:BD:03:E5:82:1D:22:60:B1:06:6E:86:A1"
+      ]
+    }
+  }
+]
